@@ -1,0 +1,75 @@
+﻿StoreKey,Store Code,State,Country,Square Meters,Open Date,Close Date,Status
+10,1,Australian Capital Territory,Australia,595,2008-01-01 00:00:00,,
+20,2,Northern Territory,Australia,665,2008-01-12 00:00:00,2016-07-07 00:00:00,Closed
+30,3,South Australia,Australia,2000,2012-01-07 00:00:00,2015-08-08 00:00:00,Restructured
+35,3,South Australia,Australia,3000,2015-12-08 00:00:00,,
+40,4,Tasmania,Australia,2000,2010-01-01 00:00:00,,
+50,5,Victoria,Australia,2000,2015-12-09 00:00:00,,
+60,6,Western Australia,Australia,2000,2010-01-01 00:00:00,,
+70,7,New Brunswick,Canada,1105,2007-05-07 00:00:00,2014-03-09 00:00:00,Restructured
+72,7,New Brunswick,Canada,1500,2015-01-11 00:00:00,2018-02-02 00:00:00,Restructured
+74,7,New Brunswick,Canada,3500,2018-06-02 00:00:00,,
+80,8,Newfoundland and Labrador,Canada,2105,2014-07-02 00:00:00,,
+90,9,Northwest Territories,Canada,1500,2005-03-04 00:00:00,,
+100,10,Nunavut,Canada,1210,2015-04-04 00:00:00,,
+110,11,Yukon,Canada,1210,2009-06-03 00:00:00,2015-05-05 00:00:00,Closed
+120,12,Basse-Normandie,France,350,2012-06-06 00:00:00,,
+130,13,Corse,France,245,2013-06-07 00:00:00,,
+140,14,Franche-Comté,France,350,2009-12-15 00:00:00,,
+150,15,La Réunion,France,400,2015-01-01 00:00:00,,
+160,16,Limousin,France,385,2010-06-03 00:00:00,,
+170,17,Martinique,France,350,2007-07-08 00:00:00,,
+180,18,Mayotte,France,310,2012-08-08 00:00:00,,
+190,19,Berlin,Germany,1295,2015-04-04 00:00:00,,
+200,20,Brandenburg,Germany,1715,2012-12-15 00:00:00,2019-08-08 00:00:00,Closed
+210,21,Freie Hansestadt Bremen,Germany,560,2018-06-03 00:00:00,,
+220,22,Freistaat Thüringen,Germany,2000,2008-03-06 00:00:00,,
+230,23,Hamburg,Germany,1365,2010-01-01 00:00:00,,
+240,24,Hessen,Germany,1855,2012-12-15 00:00:00,,
+250,25,Mecklenburg-Vorpommern,Germany,1610,2010-01-01 00:00:00,2015-04-04 00:00:00,Restructured
+255,25,Mecklenburg-Vorpommern,Germany,2800,2015-08-08 00:00:00,,
+260,26,Saarland,Germany,350,2019-03-05 00:00:00,,
+270,27,Sachsen-Anhalt,Germany,2000,2008-08-08 00:00:00,,
+280,28,Caltanissetta,Italy,1200,2012-12-15 00:00:00,2017-08-03 00:00:00,Closed
+290,29,Enna,Italy,1000,2008-01-01 00:00:00,,
+300,30,Pesaro,Italy,2100,2008-01-12 00:00:00,,
+310,31,Drenthe,Netherlands,1085,2012-01-07 00:00:00,,
+320,32,Flevoland,Netherlands,910,2010-01-01 00:00:00,,
+330,33,Friesland,Netherlands,1540,2015-12-09 00:00:00,,
+340,34,Groningen,Netherlands,1365,2010-01-01 00:00:00,,
+350,35,Zeeland,Netherlands,1225,2007-05-07 00:00:00,2015-07-06 00:00:00,Closed
+360,36,Armagh,United Kingdom,1300,2014-07-02 00:00:00,,
+370,37,Ayrshire,United Kingdom,2100,2005-03-04 00:00:00,,
+380,38,Belfast,United Kingdom,1800,2015-04-04 00:00:00,,
+390,39,Blaenau Gwent,United Kingdom,2100,2009-06-03 00:00:00,,
+400,40,Dungannon and South Tyrone,United Kingdom,1300,2012-06-06 00:00:00,,
+410,41,Fermanagh,United Kingdom,2100,2013-06-07 00:00:00,2018-09-09 00:00:00,Closed
+420,42,North Down,United Kingdom,1900,2009-12-15 00:00:00,,
+430,43,Alaska,United States,1190,2015-01-01 00:00:00,,
+440,44,Arkansas,United States,2000,2010-06-03 00:00:00,,
+450,45,Connecticut,United States,2000,2007-07-08 00:00:00,,
+460,46,Delaware,United States,1015,2012-08-08 00:00:00,2015-03-03 00:00:00,Restructured
+465,46,Delaware,United States,1015,2015-06-06 00:00:00,2019-08-03 00:00:00,Closed
+470,47,Hawaii,United States,1120,2015-04-04 00:00:00,,
+480,48,Idaho,United States,1540,2012-12-15 00:00:00,,
+490,49,Iowa,United States,2000,2018-06-03 00:00:00,,
+500,50,Kansas,United States,2000,2008-03-06 00:00:00,,
+510,51,Maine,United States,1295,2010-01-01 00:00:00,,
+520,52,Mississippi,United States,2000,2009-06-03 00:00:00,2015-06-03 00:00:00,Closed
+530,53,Montana,United States,1260,2012-06-06 00:00:00,,
+540,54,Nebraska,United States,2000,2013-06-07 00:00:00,,
+550,55,Nevada,United States,2000,2009-12-15 00:00:00,,
+560,56,New Hampshire,United States,1260,2015-01-01 00:00:00,,
+570,57,New Mexico,United States,1645,2010-06-03 00:00:00,,
+580,58,North Dakota,United States,1330,2007-07-08 00:00:00,2015-07-06 00:00:00,Restructured
+585,58,North Dakota,United States,3500,2015-12-15 00:00:00,,
+590,59,Oregon,United States,2000,2012-08-08 00:00:00,,
+600,60,Rhode Island,United States,1260,2005-04-04 00:00:00,2013-12-05 00:00:00,Restructured
+605,60,Rhode Island,United States,1260,2014-06-03 00:00:00,,
+610,61,South Carolina,United States,2000,2012-12-15 00:00:00,,
+620,62,South Dakota,United States,1120,2018-06-03 00:00:00,,
+630,63,Utah,United States,2000,2008-03-06 00:00:00,2019-11-03 00:00:00,
+650,65,Washington DC,United States,1330,2010-01-01 00:00:00,,
+660,66,West Virginia,United States,1785,2012-01-01 00:00:00,,
+670,67,Wyoming,United States,840,2014-01-01 00:00:00,,
+999999,-1,Online,Online,,2010-01-01 00:00:00,,
